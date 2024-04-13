@@ -2940,13 +2940,6 @@ expo-modules-core@0.0.1-canary-20240411-55a0085:
   dependencies:
     invariant "^2.2.4"
 
-expo-splash-screen@0.0.1-canary-20240411-55a0085:
-  version "0.0.1-canary-20240411-55a0085"
-  resolved "https://registry.yarnpkg.com/expo-splash-screen/-/expo-splash-screen-0.0.1-canary-20240411-55a0085.tgz#eb53c1951b2ed8f84d2642148b003e2571a10238"
-  integrity sha512-uudl+0TvpEZRp17zf/AtyCtdcRJCN2U/7WSmTuPn9KjvhKMRlxflkJJyupM/rVXKs0CDXanLlWky4854hX9M4w==
-  dependencies:
-    "@expo/prebuild-config" "0.0.1-canary-20240411-55a0085"
-
 expo-status-bar@0.0.1-canary-20240411-55a0085:
   version "0.0.1-canary-20240411-55a0085"
   resolved "https://registry.yarnpkg.com/expo-status-bar/-/expo-status-bar-0.0.1-canary-20240411-55a0085.tgz#c721fd3d0ca9145547ad24cda7586a51c07c78b9"
