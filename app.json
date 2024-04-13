@@ -6,7 +6,7 @@
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#43dddd"
     },
     "ios": {
       "supportsTablet": true,
@@ -27,6 +27,18 @@
           }
         }
       ]
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "7f896378-a99c-47a3-9d3e-0ac2f8ef69e2"
+      }
+    },
+    "runtimeVersion": "1.0.0",
+    "updates": {
+      "url": "https://u.expo.dev/7f896378-a99c-47a3-9d3e-0ac2f8ef69e2",
+      "requestHeaders": {
+        "expo-channel-name": "main"
+      }
+    }
   }
 }
